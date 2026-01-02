@@ -1,4 +1,4 @@
-baseURL: "dkhonker.github.io" 
+baseURL: "lijianxiong.art" 
 title: Jianxiong Li
 theme: PaperMod
 
@@ -48,7 +48,7 @@ params:
           enabled: true
           title: Jianxiong Li
           subtitle: "Hi! I am a master’s student at Guangzhou University, supervised by Professor Zhigang Wang. I received my bachelor’s degree in Intelligent Science and Technology from Sun Yat-sen University."
-          imageUrl: "fluid.png"
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:

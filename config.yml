@@ -1,5 +1,5 @@
 baseURL: "dkhonker.github.io" 
-title: Moritz-Maria von Igelfeld
+title: Jianxiong Li
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -22,7 +22,7 @@ menu:
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    author: Jianxiong Li
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -36,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["blog","arxiv"]
+    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -70,8 +70,7 @@ params:
           url: https://github.com/
         - name: Twitter
           url: https://x.com/
-        - name: Kaggle
-          url: https://kaggle.com/
+
 
 
     assets:

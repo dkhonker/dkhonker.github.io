@@ -58,8 +58,6 @@ params:
               url: arxiv/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:li.jian.xiong@qq.com
         - name: Location
